@@ -14,6 +14,6 @@
         "node-red-node-email": "1.7.9",
         "node-red-node-ui-list": "0.3.1",
         "node-red-contrib-telegrambot": "8.4.0",
-        "node-red-contrib-telegrambot-home": "0.6.0",
+        "node-red-contrib-telegrambot-home": "0.6.0"
     }
 }
