@@ -1,0 +1,7 @@
+temp-20,40,60,80
+humidity-50,70,80,90
+chemical-200,400,600,800
+pm-200,400,600,800
+color-#9ede73,#0091ff,#fdca40,#fb3640,#810000
+alert-90,40,500,500
+enableAlert-1
